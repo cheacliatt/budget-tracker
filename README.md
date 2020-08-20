@@ -12,7 +12,7 @@
 * [Questions](#questions)  
 
 ## Description
-This application will keep track of a user's budget, with the user able to create multiple tranasctions. The application also displays a statistic page based on the last on all transactions the user inputs.
+This application will keep track of a user's budget through a No SQL database, MongoDB, with the user able to create multiple tranasctions. The application also displays a statistic page based on the last on all transactions the user inputs.
 
 <img src="budgetsh.PNG"/>
 
@@ -25,9 +25,9 @@ This code can be forked and cloned onto one's local device through GitHub. Pleas
 The primary usage of this code is to keep track of a user's budget.
 
 ## Links
-[GitHub repository](https://github.com/cheacliatt/workout-tracker "Repository")
+[GitHub repository](https://github.com/cheacliatt/budget-tracker "Repository")
 
-[Heroku Server](https://intense-springs-07143.herokuapp.com/ "Heroku")
+[Heroku Server](https://gt-budget-tracker.herokuapp.com/ "Heroku")
 
 
 ## License
